@@ -1,6 +1,8 @@
 ## BIENVENIDO AL CHATBOT DE LA MATERIA
 
-### Sientete libre de hacer las siguientes preguntas
+
+## Sientete libre de hacer las siguientes preguntas
+
 
 #### ¡Cosas que puedes preguntar al chatbot!
 
