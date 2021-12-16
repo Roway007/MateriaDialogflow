@@ -26,5 +26,5 @@
     allow="microphone;"
     width="350"
     height="430"
-    src="https://console.dialogflow.com/api-client/demo/embedded/7b8f85d0-59f4-40f3-833f-62b10b24f9f9">Chatbot
+    src="https://console.dialogflow.com/api-client/demo/embedded/7b8f85d0-59f4-40f3-833f-62b10b24f9f9">
 </iframe>
